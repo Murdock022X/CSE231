@@ -1,0 +1,25 @@
+28 umbrella
+31 handbag
+32 tie
+33 suitcase
+34 frisbee
+35 skis
+36 snowboard
+37 sports ball
+38 kite
+39 baseball bat
+40 baseball glove
+41 skateboard
+42 surfboard
+43 tennis racket
+44 bottle
+67 dining table
+70 toilet
+72 tv
+73 laptop
+74 mouse
+75 remote
+76 keyboard
+77 cell phone
+78 microwave
+79 oven
